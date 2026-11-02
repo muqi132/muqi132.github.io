@@ -8,3 +8,5 @@
 .bm-diary-content img{max-width:100%;height:auto}.bm-diary-content pre{max-width:100%;overflow:auto}
 .bm-diary-content .katex-display{overflow:auto;max-width:100%}.bm-diary-empty{padding:2rem;text-align:center}
 @media(max-width:600px){.bm-diary-day{padding-left:1rem}.bm-diary-index a{font-size:.85rem}}
+
+.bm-diary-tools{display:flex;justify-content:flex-end;margin-bottom:18px}.bm-diary-write{display:inline-block;padding:8px 16px;border:1px solid currentColor;border-radius:8px;text-decoration:none}
